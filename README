@@ -1,0 +1,7 @@
+
+How to run:
+
+- Type 'make' to compile 
+- Type 'make run_test' to test
+- Change the Makefile to test with different inputs
+
